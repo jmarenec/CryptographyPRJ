@@ -3,7 +3,7 @@ A qt application that allows the user to create an account (username and passwor
 
 ![Image description](https://github.com/kencasimiro/CryptographyIO/blob/master/Application%20Screenshots/Screen%20Shot%202019-01-13%20at%204.31.57%20AM.png)
 
-![Image description](https://github.com/kencasimiro/cryptographyIO/blob/master/Application%20Screenshots/Screen%20Shot%202019-01-13%20at%204.32.50%20AM.png)
+
 
 When creating a login account/record:
 - Generate random salt.
